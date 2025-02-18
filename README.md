@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mckenxye&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" width="380" alt="ovi" />
+    <img src="https://github-readme-stats.vercel.app/api?username=K31NER&sho_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" />
+
 <!--
 **Mckenxye/Mckenxye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
